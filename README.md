@@ -1,10 +1,10 @@
 # Eatables
 
 ## Introduction
-- Made in React Native ⚛ 
-- Using JSON data 💨
+- Made in React Native
+- Using JSON data 
 
-## Installation 🚀
+## Installation
 - Clone the repository
 - Open the folder in your terminal
 - Run ```npm i```
